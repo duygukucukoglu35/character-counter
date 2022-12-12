@@ -21,6 +21,7 @@ body {
   color: var(--c1);
   font-family: "Montserrat", sans-serif;
 }
+
 .container {
   padding: 30px;
   width: 400px;
